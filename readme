@@ -1,0 +1,29 @@
+# 🎮 La Bande - Site Web Gaming Pixel Art
+
+Un site web interactif au style rétro gaming pixel art présentant un groupe de 5 personnes avec leurs profils et statistiques individuelles.
+
+## 📋 Description
+
+Ce projet est un site web composé d'une page d'accueil avec 5 cartes interactives représentant chaque membre du groupe "La Bande". Chaque carte révèle progressivement son contenu au survol et permet d'accéder à une page de profil détaillée avec des statistiques de type RPG.
+
+### ✨ Fonctionnalités principales
+
+- **Page d'accueil dynamique** avec 5 cartes animées
+- **Effets de survol** : les cartes sont floues et réduites par défaut, puis s'agrandissent et deviennent nettes au passage de la souris
+- **Navigation par clic** : chaque carte redirige vers une page de profil individuelle
+- **Pages de profil** avec :
+  - Photo du membre
+  - Nom et rôle
+  - 5 statistiques animées (Intelligence, Humour, Reflex, Sport, Conduite)
+  - Description personnalisée
+  - Bouton de retour vers la page d'accueil
+- **Design rétro gaming** avec :
+  - Police pixel art "Press Start 2P"
+  - Palette de couleurs néon (cyan, vert néon, magenta)
+  - Effets de lumière et ombres néon
+  - Animations de type arcade/console rétro
+  - Effet scanline simulant un écran CRT
+  - Images pixelisées
+
+## 🗂️ Structure du projet
+
